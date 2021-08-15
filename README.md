@@ -4,7 +4,7 @@ Projeto desenvolvido durante aprendizado na Trybe que envolve a criação de uma
 
 ## Desenvolvimento
 
-Esta aplicação foi desenvolvida com framework React.js, utilizando Context API e Hooks para gerenciamento de estados. Além disso, possui filtros para seleção de dados desejados na busca das informações.
+Esta aplicação foi desenvolvida com framework React.js, utilizando Context API e Hooks para gerenciamento de estados. Além disso, possui filtros para seleção de dados desejados na busca das informações. Consome a API `https://swapi-trybe.herokuapp.com/api/planets`.
 
 ### Tecnologias
 
